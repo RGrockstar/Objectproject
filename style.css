@@ -1,0 +1,24 @@
+body{
+background-size: cover;
+background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #no.num
+{
+font-size: 18px;
+}
+canvas{
+border-radius: 20px;
+}
+#object{
+font-size: 15px;
+background-color: greenyellow;
+width:50%;
+border-radius: 10px;
+}
